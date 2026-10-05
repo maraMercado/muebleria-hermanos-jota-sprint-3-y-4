@@ -1,0 +1,12 @@
+{
+  "name": "muebleria-hermanos-jota-backend",
+  "version": "1.0.0",
+  "description": "API REST de Mueblería Hermanos Jota",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
